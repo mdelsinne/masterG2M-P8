@@ -8,7 +8,7 @@
 
 3. Ajouter les contrôles ([ol.control](https://geoadmin.github.io/ol3/apidoc/ol.control.html)) suivants à la carte :<br>
   - [ol.control.ZoomSlider](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomSlider.html)
-  - [ol.control.ZoomToExtent](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomToExtent.html) ([exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/navigation-controls.html?q=extent)) et spécifier une etendue. <br>
+  - [ol.control.ZoomToExtent](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomToExtent.html) ([exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/navigation-controls.html?q=extent)) et spécifier une etendue <br>
     ! Attention ! la carte est en __WGS84 Web Mercator (EPSG:3857)__
     
 4. Ajouter les rasters [__World_Topo_Map__](https://server.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer), [__World_Street_Map__](https://server.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer) et [__World_Imagery__](https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer) (*ArcGIS REST Services*) : <br>
