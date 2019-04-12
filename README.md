@@ -14,7 +14,7 @@
 4. Ajouter les rasters [__World_Topo_Map__](https://server.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer), [__World_Street_Map__](https://server.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer) et [__World_Imagery__](https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer) (*ArcGIS REST Services*) : <br>
 [ol.layer.Tile](https://geoadmin.github.io/ol3/apidoc/ol.layer.Tile.html) : specifier l'étendue dans laquelle vous souhaitez faire apparaitre les tuiles du service raster correspondant.
 
-5. Visibilité des couches : ajouter les cases à cocher correspondantes aux rasters Esri pour gerer leur visibilité
+5. Visibilité des couches : ajouter les cases à cocher correspondantes aux rasters Esri pour gérer leur visibilité
   - Ajouter les composants HTML representant les cases à cocher et lier l'evenement ```onclick``` à la fonction *setVisibility()* déjà existante
   - Modifier le script en ajoutant les instructions necessaires à la fonction ```setVisibility(checkbox)``` pour gérer la visibilité des couches
 
