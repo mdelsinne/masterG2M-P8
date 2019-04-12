@@ -18,7 +18,7 @@
   - Ajouter les composants HTML representant les cases à cocher et lier l'evenement ```onclick``` à la fonction *setVisibility()* déjà existante
   - Modifier le script en ajoutant les instructions necessaires à la fonction ```setVisibility(checkbox)``` pour gérer la visibilité des couches
 
-6. Offrir à l'utilisateur la possibilité de dessiner sur la carte ([Exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/draw-features.html)
+6. Offrir à l'utilisateur la possibilité de dessiner sur la carte ([exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/draw-features.html))
   - [Draw](https://geoadmin.github.io/ol3/apidoc/ol.interaction.Draw.html)
 
 7. Compresser votre dossier 'OpenLayers', renommer l'archive en indiquant votre nom et prénom ainsi que la date du jour : *nom_prenom-20190412.zip*
