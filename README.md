@@ -7,8 +7,8 @@
 2. Modifier 'index.html' *ligne 28* en indiquant votre nom et prénom : **NOM Prénom**
 
 3. Ajouter les contrôles ([ol.control](https://geoadmin.github.io/ol3/apidoc/ol.control.html)) suivants à la carte :<br>
-  - [ZoomSlider](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomSlider.html)
-  - [ZoomToExtent](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomToExtent.html) ([exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/navigation-controls.html?q=extent)) et spécifier une etendue. <br>
+  - [ol.control.ZoomSlider](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomSlider.html)
+  - [ol.control.ZoomToExtent](https://geoadmin.github.io/ol3/apidoc/ol.control.ZoomToExtent.html) ([exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/navigation-controls.html?q=extent)) et spécifier une etendue. <br>
     ! Attention ! la carte est en __WGS84 Web Mercator (EPSG:3857)__
     
 4. Ajouter les rasters [__World_Topo_Map__](https://server.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer), [__World_Street_Map__](https://server.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer) et [__World_Imagery__](https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer) (*ArcGIS REST Services*) : <br>
@@ -19,7 +19,7 @@
   - Modifier le script en ajoutant les instructions necessaires à la fonction ```setVisibility(checkbox)``` pour gérer la visibilité des couches
 
 6. Offrir à l'utilisateur la possibilité de dessiner sur la carte ([exemple](http://tsauerwein.github.io/ol3/mapbox-gl-js/examples/draw-features.html))
-  - [Draw](https://geoadmin.github.io/ol3/apidoc/ol.interaction.Draw.html)
+  - [ol.interaction.Draw](https://geoadmin.github.io/ol3/apidoc/ol.interaction.Draw.html)
 
 7. Compresser votre dossier 'OpenLayers', renommer l'archive en indiquant votre nom et prénom ainsi que la date du jour : *nom_prenom-20190412.zip*
 
