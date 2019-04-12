@@ -23,6 +23,6 @@
 
 7. Compresser votre dossier 'OpenLayers', renommer l'archive en indiquant votre nom et prénom ainsi que la date du jour : *nom_prenom-20190412.zip*
 
-8. Déposer l'archive sur [Drive](https://drive.google.com/open?id=1mLUapWgcPOXprp40ABNg7QkcANyh-gI1), par [m@il](mailto:martin.delsinne@gfi.fr) ou sur ma clé USB
+8. Déposer l'archive sur [Drive](https://drive.google.com/open?id=1mLUapWgcPOXprp40ABNg7QkcANyh-gI1), par [m@il(martin.delsinne@gfi.fr)](mailto:martin.delsinne@gfi.fr) ou sur ma clé USB
 
 <h4>MERCI</h4>
