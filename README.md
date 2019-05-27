@@ -27,7 +27,7 @@
 
 <h4>MERCI</h4>
 
-# Résultat :
+## Résultat :
 ABBAS L	Lubna - *ABBAS04122019.zip*	**note : 19**
 . Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
 . La variable 'drawEnable' dans script.js est inutile car non exploitée
