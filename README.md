@@ -26,3 +26,67 @@
 8. Déposer l'archive sur [Drive](https://drive.google.com/open?id=1mLUapWgcPOXprp40ABNg7QkcANyh-gI1), par [m@il(martin.delsinne@gfi.fr)](mailto:martin.delsinne@gfi.fr) ou sur ma clé USB
 
 <h4>MERCI</h4>
+
+# Résultat :
+ABBAS L	Lubna - *ABBAS04122019.zip*	**note : 19**
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. La variable 'drawEnable' dans script.js est inutile car non exploitée
+
+AUBRY M	- *AUBRY_Marlene.zip*	**note : 17**
+. Le slider de zoom est au dessus du bouton 'ZoomToExtent' ce qui rend celui-ci inexploitable !
+. Aucun moyen de déselectionner un outil de dessin après sélection de la liste de choix
+
+BABACAR G	- *Babacar_Gueye.zip*	**note : 16**
+. Les dessins n'apparaissent pas (uniquement le tracé), il manque la couche vecteur correspondante aux dessins sur la carte (*script.js*) : map.addLayer(vector);
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. Aucun moyen de déselectionner un outil de dessin après sélection dans la liste de choix
+
+BELHADJ W	- *BELHADJ_wiem-20190412.zip*	**note : 19**
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+BERAUD M	- *beraud_maite_12042019.zip*	**note : 19**
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+COMPAORE Y G - *COMPAORE_Y_Giscard_20190412.zip*	**note : 19**
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+DHIMNI S	- *Safouane DHIMNI.zip*	**note : 19**	
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. La couche vecteur corresondant aux dessins est en dessous des rasters Esri (vu ensemble)
+
+KONE L	- *LACINA KONE.rar*	**note : 18**
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. Imposible de masquer le raster World_Street_Map (*index.html*) : La case à cocher du raster World_Street_Map porte le même id que la case à cocher du raster World_Imagery
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+MENDY O	- *examenJS_20190412_OdetteMENDY.7z* **note : 19**	
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend l'utilisation laborieuse du slider à un zoom proche
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+ROBARD O	- *examenJS_20190412 ornella robard.zip*	**note : 15**
+. Les dessins ne fonctionnent pas ! (*script.js*) : erreur critique, les instructions des fonctionnalités de dessin sont placées de manière incorrecte dans la fonction 'setVisibility(checkbox)'
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. Les cases à cocher correspondantes aux rasters Esri ne sont pas sélectionnées à l'initialisation alors que les couches sont visibles sur la carte (*script.js*) : la propriété visible n'est pas bien placée, elle concerne l'objet ol.layer.Tile et non ol.source.TileArcGISRest
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+. Le raster World_Topo_Map est déclarée deux fois
+
+SBOUAI R	- *Raouani_SBOUAI_12_04_2019.zip*	**note : 19/20**	
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+SOUHONET A	- *SOUHONET Ahissé Gnako Othniel.zip*	**note : 17/20**
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
+. Les cases à cocher correspondantes aux rasters Esri ne sont pas sélectionnées à l'initialisation alors que les couches sont visibles sur la carte
+. Imposible de masquer le raster World_Street_Map (*index.html*) : La case à cocher du raster World_Street_Map porte le même id que la case à cocher du raster World_Imagery
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+
+TAYEB M	- *Manel-Tayeb-20190412.zip*	**note : 18/20**	
+. Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend l'utilisation laborieuse du slider à un zoom proche
+. Aucun moyen de déselectionner un outil de dessin après sélection dans la liste de choix
+. La variable 'drawEnable' dans *script.js* est inutile car non exploitée
+			
+      
+	moyenne : 	18
