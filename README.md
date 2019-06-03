@@ -66,6 +66,10 @@ MENDY O	- *examenJS_20190412_OdetteMENDY.7z* **note : 19/20**
 . Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend l'utilisation laborieuse du slider à un zoom proche
 . La variable 'drawEnable' dans *script.js* est inutile car non exploitée
 
+RAVENELLE C - *examenJS_Ravenelle_Clotilde.zip*	**note : 17/20**
+. Le bouton 'ZoomToExtent' est au dessus du bouton 'Zoom +' ce qui rend celui-ci inexploitable !
+. Aucun moyen de déselectionner un outil de dessin après sélection dans la liste de choix"
+
 ROBARD O - *examenJS_20190412 ornella robard.zip* | **note : 15/20**
 . Les dessins ne fonctionnent pas ! (*script.js*) : erreur critique, les instructions des fonctionnalités de dessin sont placées de manière incorrecte dans la fonction 'setVisibility(checkbox)'
 . Le bouton 'ZoomToExtent' est au dessus du slider de zoom ce qui rend son utilisation laborieuse à un zoom proche
